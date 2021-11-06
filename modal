@@ -1,0 +1,18 @@
+<div class="modal fade" id="Amita_chauhan">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content" >
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Amita Chauhan</h4>
+        </div>
+        
+        <div class="modal-body">
+          <img src="s1.jpg" class="img-responsive img_modal">
+          <p class="p_modal">A futuristic educationist, an enterprising entrepreneur, a noble philanthropist and above all, a doting mother to over 40,000 children studying across all branches of Amity International Schools, Dr (Mrs) Amita Chauhan, Chairperson, Amity Group of Schools and RBEF, is a woman of substance.<br>
+          <a href="https://www.amazon.in/First-Space-Encyclopaedia-DK/dp/0241293421/ref=sr_1_6?crid=176WU3JFDK2JP&keywords=books+on+space+for+kids&qid=1575444723&sprefix=books+on%2Caps%2C285&sr=8-6"><b>Wikipidea</b></a>
+           </p>
+        </div>
+      </div>
+    </div>
+  </div>
